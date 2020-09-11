@@ -48,7 +48,30 @@ This will run the PerceptiLabs kernel locally on your machine and launch its use
 
 [Documentation →](https://www.perceptilabs.com/docs/overview)
 
+# How to cite us
+
+If you're writing a paper or article about a project that used PerceptiLabs, we'd love it if you cited us. Here's a generated BibTeX citation for our website that will help point people to our tools:
+
+```
+@misc{pl,
+title = {Visual Machine Learning Modeling with PerceptiLabs},
+year = {2020},
+note = {Software available from www.perceptilabs.com},
+url={www.perceptilabs.com},
+author = {Smith, John},
+}
+```
+
+
 # Community
 
 Got questions, feedback, or want to join a community of machine learning practitioners working with exciting tools and projects? Check out our [forum](http://forum.perceptilabs.com/) and [Slack Channel](https://perceptilabs-com.slack.com/join/shared_invite/enQtODQ5NzAwNDkxOTExLWUxODAwZDk0MzA1MmM4OTViNWE4MmVjYjc2OTQwMTQ4N2NmM2ZlYmI5NjZjOWRiYjBkYjBjMTMzNjEyMDNiNDk)!
+
+Also be sure to follow us on [![alt text][1.1]][1]
+
+[1.1]: http://i.imgur.com/tXSoThF.png ( )
+[1]: http://www.twitter.com/perceptilabs
+
+
+
 
