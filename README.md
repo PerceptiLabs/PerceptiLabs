@@ -1,6 +1,6 @@
 [![PerceptiLabs](./pl_logo.png)](https://www.perceptilabs.com/home)
 
-# PerceptiLabs
+# PerceptiLabs [![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs)
 
 PerceptiLabs is a dataflow driven, visual API for TensorFlow that enables data scientists to work more efficiently with machine learning models and to gain more insight into their models. It wraps low-level TensorFlow code to create visual components, which allows users to visualize the model architecture as the model is being built.
 
@@ -67,10 +67,7 @@ author = {Smith, John},
 
 Got questions, feedback, or want to join a community of machine learning practitioners working with exciting tools and projects? Check out our [forum](http://forum.perceptilabs.com/) and [Slack Channel](https://perceptilabs-com.slack.com/join/shared_invite/enQtODQ5NzAwNDkxOTExLWUxODAwZDk0MzA1MmM4OTViNWE4MmVjYjc2OTQwMTQ4N2NmM2ZlYmI5NjZjOWRiYjBkYjBjMTMzNjEyMDNiNDk)!
 
-Also be sure to follow us on [![alt text][1.1]][1]
-
-[1.1]: http://i.imgur.com/tXSoThF.png ( )
-[1]: http://www.twitter.com/perceptilabs
+[![Twitter](https://img.shields.io/twitter/follow/perceptilabs?style=social)](https://twitter.com/perceptilabs) Follow us on [Twitter](https://twitter.com/perceptilabs).
 
 
 
