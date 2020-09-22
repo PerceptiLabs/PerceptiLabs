@@ -1,4 +1,8 @@
-[![PerceptiLabs](./pl_logo.png)](https://www.perceptilabs.com/home)
+<p align="center">
+  <a href="https://www.perceptilabs.com">
+  <img src="./pl_logo.png">
+  </a>
+</p>
 
 # PerceptiLabs [![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs)
 
