@@ -62,7 +62,7 @@ title = {Visual Machine Learning Modeling with PerceptiLabs},
 year = {2020},
 note = {Software available from www.perceptilabs.com},
 url={www.perceptilabs.com},
-author = {Smith, John},
+author = {Martin Isaksson and Robert Lundberg},
 }
 ```
 
