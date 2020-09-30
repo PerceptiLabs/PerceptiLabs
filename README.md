@@ -10,11 +10,11 @@ PerceptiLabs is a dataflow driven, visual API for TensorFlow that enables data s
 
 This visual approach lowers the barrier of entry for beginners while providing researchers and advanced users with code-level access to their models. 
 
-![PerceptiLabs Modeling Tool](./modeling_tool.png "PerceptiLabs Workspace View")
+![PerceptiLabs Modeling Tool](./modeling_tool.PNG "PerceptiLabs Modeling Tool")
 
-![PerceptiLabs Notebook](./notebook.png "PerceptiLabs Notebook View")
+![PerceptiLabs Notebook](./notebook.PNG "PerceptiLabs Notebook")
 
-![PerceptiLabs Statistics View](./statistics_view.png "PerceptiLabs Statistics View")
+![PerceptiLabs Statistics View](./statistics_view.PNG "PerceptiLabs Statistics View")
 
 # Features
 
