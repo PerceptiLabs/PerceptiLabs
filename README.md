@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Welcome to PerceptiLabs [![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs)
+# PerceptiLabs [![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs)
 
 **The intuitive way to build models**
 
