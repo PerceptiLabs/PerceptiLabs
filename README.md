@@ -6,7 +6,7 @@
 
 # PerceptiLabs [![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs)
 
-**The intuitive way to build models**
+**An intuitive way to build models**
 
 PerceptiLabs is a dataflow driven, visual API for TensorFlow that enables data scientists to work more efficiently with machine learning models and to gain more insight into their models. It wraps low-level TensorFlow code to create visual components, which allows users to visualize the model architecture as the model is being built.
 
