@@ -20,7 +20,7 @@ As a visual API, PerceptiLabs sits on top of TensorFlow and other APIs:
 
 ![PerceptiLabs Diagram](./assets/perceptilabs-diagram.png "PerceptiLabs Diagram")
 
-PerceptiLabs wraps low-level TensorFlow code to create visual components, so you’ll see your model’s architecture as you build.
+PerceptiLabs wraps low-level TensorFlow code to create visual components, so you’ll see your model’s architecture as you build:
 
 ![PerceptiLabs Modeling Tool](./assets/V1ph_1.gif "PerceptiLabs Modeling Tool")
 
