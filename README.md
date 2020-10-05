@@ -6,7 +6,7 @@
 
 # Welcome to PerceptiLabs 
 
-[![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs) 
+[![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs) ![python](https://img.shields.io/badge/python-3.6%20%7C%203.7-blue) ![tensorflow](https://img.shields.io/badge/tensorflow-1.15-orange)
 
 **An intuitive way to build models**
 
@@ -14,15 +14,25 @@ PerceptiLabs is a dataflow driven, visual API for TensorFlow that enables data s
 
 This visual approach lowers the barrier of entry for beginners while providing researchers and advanced users with code-level access to their models.
 
-# A GUI for TensorFlow
+# A visual API for TensorFlow
+
+As a visual API, PerceptiLabs sits on top of TensorFlow and other APIs:
+
+![PerceptiLabs Diagram](./assets/perceptilabs-diagram.png "PerceptiLabs Diagram")
+
+PerceptiLabs wraps low-level TensorFlow code to create visual components, so you’ll see your model’s architecture as you build.
 
 ![PerceptiLabs Modeling Tool](./assets/V1ph_1.gif "PerceptiLabs Modeling Tool")
 
-# Learn from real-time insights
+# Real-time insights
+
+See real-time analytics and granular previews of output from each model component. You can easily track and understand the gradients’ behavior, perform real-time debugging, and see where to optimize your model.
 
 ![PerceptiLabs Statistics View](./assets/V2ph_1.gif "PerceptiLabs Statistics View")
 
 # Keep track of models and share on GitHub
+
+PerceptiLabs lets you manage multiple models, compare them, and easily share the results back to your team. Export your model as a TensorFlow model or as a Jupyter Notebook.
 
 ![PerceptiLabs Model Hub](./assets/V3ph-1.gif "PerceptiLabs Model Hub")
 
