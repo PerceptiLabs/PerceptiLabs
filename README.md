@@ -16,15 +16,15 @@ This visual approach lowers the barrier of entry for beginners while providing r
 
 # A GUI for TensorFlow
 
-![PerceptiLabs Modeling Tool](./assets/V1_700px.gif "PerceptiLabs Modeling Tool")
+![PerceptiLabs Modeling Tool](./assets/V1ph_1.gif "PerceptiLabs Modeling Tool")
 
 # Learn from real-time insights
 
-![PerceptiLabs Statistics View](./assets/V2_700px.gif "PerceptiLabs Statistics View")
+![PerceptiLabs Statistics View](./assets/V2ph_1.gif "PerceptiLabs Statistics View")
 
 # Keep track of models and share on GitHub
 
-![PerceptiLabs Model Hub](./assets/V3_700px.gif "PerceptiLabs Model Hub")
+![PerceptiLabs Model Hub](./assets/V3ph-1.gif "PerceptiLabs Model Hub")
 
 # Features
 
