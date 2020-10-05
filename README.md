@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.perceptilabs.com">
-  <img src="./pl_logo.png">
+  <img width="600" src="./assets/PerceptiLabs_Logo_final-web-clr.png">
   </a>
 </p>
 
