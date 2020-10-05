@@ -4,19 +4,27 @@
   </a>
 </p>
 
-# PerceptiLabs [![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs)
+# Welcome to PerceptiLabs 
+
+[![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs) 
 
 **An intuitive way to build models**
 
 PerceptiLabs is a dataflow driven, visual API for TensorFlow that enables data scientists to work more efficiently with machine learning models and to gain more insight into their models. It wraps low-level TensorFlow code to create visual components, which allows users to visualize the model architecture as the model is being built.
 
-This visual approach lowers the barrier of entry for beginners while providing researchers and advanced users with code-level access to their models. 
+This visual approach lowers the barrier of entry for beginners while providing researchers and advanced users with code-level access to their models.
 
-![PerceptiLabs Modeling Tool](./modeling_tool.PNG "PerceptiLabs Modeling Tool")
+# A GUI for TensorFlow
 
-![PerceptiLabs Notebook](./notebook.PNG "PerceptiLabs Notebook")
+![PerceptiLabs Modeling Tool](./assets/V1_700px.gif "PerceptiLabs Modeling Tool")
 
-![PerceptiLabs Statistics View](./statistics_view.PNG "PerceptiLabs Statistics View")
+# Learn from real-time insights
+
+![PerceptiLabs Statistics View](./assets/V2_700px.gif "PerceptiLabs Statistics View")
+
+# Keep track of models and share on GitHub
+
+![PerceptiLabs Model Hub](./assets/V3_700px.gif "PerceptiLabs Model Hub")
 
 # Features
 
