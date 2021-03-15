@@ -76,7 +76,7 @@ perceptilabs
 
 This will run the PerceptiLabs kernel locally on your machine and launch its user interface in your web browser.
 
-[Documentation →](https://www.perceptilabs.com/docs/overview)
+[Documentation →](https://docs.perceptilabs.com)
 
 # How to cite us
 
