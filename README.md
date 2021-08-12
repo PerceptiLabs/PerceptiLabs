@@ -9,7 +9,7 @@
 <div align="center">
 
 [![pypi](https://img.shields.io/pypi/v/perceptilabs.svg)](https://pypi.python.org/pypi/perceptilabs) 
-![python](https://img.shields.io/badge/python-3.6%20%7C%203.7-blue) 
+![python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue) 
 ![tensorflow](https://img.shields.io/badge/tensorflow-2.5-orange)
 
 </div>
